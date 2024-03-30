@@ -19,3 +19,13 @@ $ git clone github.com/X-Projetion/ParamSan/
 ```
 $ domip.py [-h] [-l LIST_FILE] [-u SINGLE_DOMAIN] [-o OUTPUT_FILE]
 ```
+
+# Input URL
+
+$ python3 main.py -u https://github.com/X-Projetion/domain-to-ip/
+
+# Input List 
+$ python3 main.py -l list.txt
+
+<br><br>
+<h4 align="center">DOMIP Made in ❤️ By X-Projetion</h4>
