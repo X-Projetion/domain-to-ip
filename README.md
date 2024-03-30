@@ -8,3 +8,14 @@ convert domain names to IP addresses quickly using Python 3, accurately find the
   <br>
   <h4 align="center">Domain To IP Converter</h4>
 </h1>
+
+## Installation
+```
+$ git clone github.com/X-Projetion/ParamSan/
+```
+
+## Usage
+
+```
+$ domip.py [-h] [-l LIST_FILE] [-u SINGLE_DOMAIN] [-o OUTPUT_FILE]
+```
